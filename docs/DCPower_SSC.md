@@ -1,6 +1,6 @@
 ## **SSC DCPower**
 ### **SSC DCPower Configure Measurements.vi**
-![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC DCPower Configure Measurements.vic.png "SSC DCPower Configure Measurements.vi")
+![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC%20DCPower%20Configure%20Measurements.vic.png "SSC DCPower Configure Measurements.vi")
 
 This VI configures the measurement mode for the sessions.
 The (Auto) setting automatically chooses the optimal measurement mode individually for the instrument model in each session.
@@ -235,7 +235,7 @@ This can be used when in the single point current mode.
 ![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC DCPower Configure Current Level Range.vic.png "SSC DCPower Configure Current Level Range.vi")
 
 This VI configures the current level range. 
-The range can be set when the device is in single point current mode. When changing ranges in the Running state, be aware of the order of the output range and output value changes because the configuration change takes effect immediately in this state. If a range is selected that does not match the valid ranges for a device, the range is coerced to the next-highest range.
+The range can be set when the device is in single point current mode. When changing ranges in theÂ RunningÂ state, be aware of the order of the output range and output value changes because the configuration change takes effect immediately in this state. If a range is selected that does not match the valid ranges for a device, the range is coerced to the next-highest range.
 
 ![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC DCPower Configure Current Level Range.vid.png "SSC DCPower Configure Current Level Range.vi")
 ### **SSC DCPower Configure Current Level.vi**
@@ -256,7 +256,7 @@ This can be used when in the single point current mode.
 ![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC DCPower Configure Voltage Limit Range.vic.png "SSC DCPower Configure Voltage Limit Range.vi")
 
 This VI configures the voltage limit range. 
-The range can be set when the device is in single point current mode. When changing ranges in the Running state, be aware of the order of the output range and output value changes because the configuration change takes effect immediately in this state. If a range is selected that does not match the valid ranges for a device, the range is coerced to the next-highest range.
+The range can be set when the device is in single point current mode. When changing ranges in theÂ RunningÂ state, be aware of the order of the output range and output value changes because the configuration change takes effect immediately in this state. If a range is selected that does not match the valid ranges for a device, the range is coerced to the next-highest range.
 
 ![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC DCPower Configure Voltage Limit Range.vid.png "SSC DCPower Configure Voltage Limit Range.vi")
 ### **SSC DCPower Configure Voltage Limit.vi**
@@ -304,7 +304,7 @@ This can be used when in the single point voltage mode.
 ![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC DCPower Configure Current Limit Range.vic.png "SSC DCPower Configure Current Limit Range.vi")
 
 This VI configures the current limit range. 
-The range can be set when the device is in single point voltage mode. When changing ranges in the Running state, be aware of the order of the output range and output value changes because the configuration change takes effect immediately in this state. If a range is selected that does not match the valid ranges for a device, the range is coerced to the next-highest range.
+The range can be set when the device is in single point voltage mode. When changing ranges in theÂ RunningÂ state, be aware of the order of the output range and output value changes because the configuration change takes effect immediately in this state. If a range is selected that does not match the valid ranges for a device, the range is coerced to the next-highest range.
 
 ![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC DCPower Configure Current Limit Range.vid.png "SSC DCPower Configure Current Limit Range.vi")
 ### **SSC DCPower Configure Current Limit.vi**
@@ -325,7 +325,7 @@ This can be used when in the single point voltage mode.
 ![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC DCPower Configure Voltage Level Range.vic.png "SSC DCPower Configure Voltage Level Range.vi")
 
 This VI configures the voltage level range. 
-The range can be set when the device is in single point voltage mode. When changing ranges in the Running state, be aware of the order of the output range and output value changes because the configuration change takes effect immediately in this state. If a range is selected that does not match the valid ranges for a device, the range is coerced to the next-highest range.
+The range can be set when the device is in single point voltage mode. When changing ranges in theÂ RunningÂ state, be aware of the order of the output range and output value changes because the configuration change takes effect immediately in this state. If a range is selected that does not match the valid ranges for a device, the range is coerced to the next-highest range.
 
 ![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC DCPower Configure Voltage Level Range.vid.png "SSC DCPower Configure Voltage Level Range.vi")
 ### **SSC DCPower Configure Voltage Level.vi**
