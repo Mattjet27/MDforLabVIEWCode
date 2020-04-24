@@ -14,6 +14,7 @@
 		<Item Name="Filter Path Name.vi" Type="VI" URL="../MD Generator/subVIs/Filter Path Name.vi"/>
 		<Item Name="Filter.ctl" Type="VI" URL="../MD Generator/subVIs/Filter.ctl"/>
 		<Item Name="Format Heading.vi" Type="VI" URL="../MD Generator/subVIs/Format Heading.vi"/>
+		<Item Name="Format Image URL.vi" Type="VI" URL="../MD Generator/subVIs/Format Image URL.vi"/>
 		<Item Name="Format VI Information.vi" Type="VI" URL="../MD Generator/subVIs/Format VI Information.vi"/>
 		<Item Name="Get Common Path.vi" Type="VI" URL="../MD Generator/subVIs/Get Common Path.vi"/>
 	</Item>
