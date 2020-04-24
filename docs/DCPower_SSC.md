@@ -1,6 +1,14 @@
 ## **SSC DCPower**
 ### **SSC DCPower Configure Measurements.vi**
+<<<<<<< HEAD
 ![alt text](/docs/images/DCPower/SSC%20DCPower%20Configure%20Measurements.vic.png "SSC DCPower Configure Measurements.vi")
+=======
+<<<<<<< HEAD
+![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/docs/images/DCPower/SSC DCPower Configure Measurements.vic.png "SSC DCPower Configure Measurements.vi")
+=======
+![alt text](https://github.com/Mattjet27/MDforLabVIEWCode/images/DCPower/SSC%20DCPower%20Configure%20Measurements.vic.png "SSC DCPower Configure Measurements.vi")
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
 
 This VI configures the measurement mode for the sessions.
 The (Auto) setting automatically chooses the optimal measurement mode individually for the instrument model in each session.
