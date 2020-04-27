@@ -1,9 +1,9 @@
 ## **SSC DCPower.ctl**
-###Connector Pane:
+### Connector Pane:
 ![alt text](/Instrument%20Control/DCPower/SSC%20DCPower/SSC%20DCPower.ctlc.png "SSC DCPower.ctl connector pane")
 
-###VI Description:
+### VI Description:
 
 
-###Block Diagram:
+### Block Diagram:
 ![alt text](/Instrument%20Control/DCPower/SSC%20DCPower/SSC%20DCPower.ctld.png "SSC DCPower.ctl block diagram")

@@ -1,9 +1,9 @@
 ## **TSM Pin Type Identifier.ctl**
-###Connector Pane:
+### Connector Pane:
 ![alt text](/images/Instrument%20Control/TSM%20Pin%20Abstraction/TSM%20Pin%20Type%20Identifier.ctlc.png "TSM Pin Type Identifier.ctl connector pane")
 
-###VI Description:
+### VI Description:
 
 
-###Block Diagram:
+### Block Diagram:
 ![alt text](/images/Instrument%20Control/TSM%20Pin%20Abstraction/TSM%20Pin%20Type%20Identifier.ctld.png "TSM Pin Type Identifier.ctl block diagram")

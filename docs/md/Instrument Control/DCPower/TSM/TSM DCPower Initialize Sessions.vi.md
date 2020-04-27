@@ -1,9 +1,9 @@
 ## **TSM DCPower Initialize Sessions.vi**
-###Connector Pane:
+### Connector Pane:
 ![alt text](/Instrument%20Control/DCPower/TSM/TSM%20DCPower%20Initialize%20Sessions.vic.png "TSM DCPower Initialize Sessions.vi connector pane")
 
-###VI Description:
+### VI Description:
 
 
-###Block Diagram:
+### Block Diagram:
 ![alt text](/Instrument%20Control/DCPower/TSM/TSM%20DCPower%20Initialize%20Sessions.vid.png "TSM DCPower Initialize Sessions.vi block diagram")

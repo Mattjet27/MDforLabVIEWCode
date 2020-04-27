@@ -1,9 +1,9 @@
 ## **SSC Digital Configure Voltage Levels.vi**
-###Connector Pane:
+### Connector Pane:
 ![alt text](/Digital/SSC%20Digital/Pin%20Levels%20and%20Timing/SSC%20Digital%20Configure%20Voltage%20Levels.vic.png "SSC Digital Configure Voltage Levels.vi connector pane")
 
-###VI Description:
+### VI Description:
 Configures voltage levels for the specified pin(s) and pin group(s).
 
-###Block Diagram:
+### Block Diagram:
 ![alt text](/Digital/SSC%20Digital/Pin%20Levels%20and%20Timing/SSC%20Digital%20Configure%20Voltage%20Levels.vid.png "SSC Digital Configure Voltage Levels.vi block diagram")

@@ -1,9 +1,9 @@
 ## **TSM Relay Configuration.ctl**
-###Connector Pane:
+### Connector Pane:
 ![alt text](/Instrument%20Control/Relay/Pin%20Map/TSM%20Relay%20Configuration.ctlc.png "TSM Relay Configuration.ctl connector pane")
 
-###VI Description:
+### VI Description:
 
 
-###Block Diagram:
+### Block Diagram:
 ![alt text](/Instrument%20Control/Relay/Pin%20Map/TSM%20Relay%20Configuration.ctld.png "TSM Relay Configuration.ctl block diagram")

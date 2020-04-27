@@ -1,9 +1,9 @@
 ## **SSC Digital.ctl**
-###Connector Pane:
+### Connector Pane:
 ![alt text](/Instrument%20Control/Digital/SSC%20Digital/SSC%20Digital.ctlc.png "SSC Digital.ctl connector pane")
 
-###VI Description:
+### VI Description:
 
 
-###Block Diagram:
+### Block Diagram:
 ![alt text](/Instrument%20Control/Digital/SSC%20Digital/SSC%20Digital.ctld.png "SSC Digital.ctl block diagram")

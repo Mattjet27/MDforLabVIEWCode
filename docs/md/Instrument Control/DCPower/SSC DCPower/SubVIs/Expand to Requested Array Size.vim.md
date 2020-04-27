@@ -1,8 +1,8 @@
 ## **Expand to Requested Array Size.vim**
-###Connector Pane:
+### Connector Pane:
 ![alt text](/DCPower/SSC%20DCPower/SubVIs/Expand%20to%20Requested%20Array%20Size.vimc.png "Expand to Requested Array Size.vim connector pane")
 
-###VI Description:
+### VI Description:
 This VI expands the array in to the requested size.
 
 Cases:
@@ -14,5 +14,5 @@ Cases:
 -If the array is the same size as the requested size it passes it straight through
 -If the array is larger than the instrument sessions it gets shortened and a warning is emitted
 
-###Block Diagram:
+### Block Diagram:
 ![alt text](/DCPower/SSC%20DCPower/SubVIs/Expand%20to%20Requested%20Array%20Size.vimd.png "Expand to Requested Array Size.vim block diagram")
