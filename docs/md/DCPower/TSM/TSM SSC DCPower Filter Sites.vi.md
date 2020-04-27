@@ -1,0 +1,9 @@
+## **TSM SSC DCPower Filter Sites.vi**
+###Connector Pane:
+![alt text](/images/DCPower/TSM/TSM%20SSC%20DCPower%20Filter%20Sites.vic.png "TSM SSC DCPower Filter Sites.vi connector pane")
+
+###VI Description:
+This VI filters the TSM SSC cluster to requested sites.
+
+###Block Diagram:
+![alt text](/images/DCPower/TSM/TSM%20SSC%20DCPower%20Filter%20Sites.vid.png "TSM SSC DCPower Filter Sites.vi block diagram")

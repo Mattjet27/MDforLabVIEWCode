@@ -9,15 +9,23 @@
 </Property>
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Append Links to Subdirectories.vi" Type="VI" URL="../MD Generator/subVIs/Append Links to Subdirectories.vi"/>
+		<Item Name="Build File Reports.vi" Type="VI" URL="../MD Generator/subVIs/Build File Reports.vi"/>
+		<Item Name="Build Folder Report.vi" Type="VI" URL="../MD Generator/subVIs/Build Folder Report.vi"/>
 		<Item Name="Build Report String.vi" Type="VI" URL="../MD Generator/subVIs/Build Report String.vi"/>
+		<Item Name="Check If Output Dir Exisits.vi" Type="VI" URL="../MD Generator/subVIs/Check If Output Dir Exisits.vi"/>
 		<Item Name="Convert Double EOL.vi" Type="VI" URL="../MD Generator/subVIs/Convert Double EOL.vi"/>
 		<Item Name="Filter Path Name.vi" Type="VI" URL="../MD Generator/subVIs/Filter Path Name.vi"/>
 		<Item Name="Filter.ctl" Type="VI" URL="../MD Generator/subVIs/Filter.ctl"/>
+		<Item Name="Format File URL.vi" Type="VI" URL="../MD Generator/subVIs/Format File URL.vi"/>
 		<Item Name="Format Heading.vi" Type="VI" URL="../MD Generator/subVIs/Format Heading.vi"/>
-		<Item Name="Format Image URL.vi" Type="VI" URL="../MD Generator/subVIs/Format Image URL.vi"/>
 		<Item Name="Format VI Information.vi" Type="VI" URL="../MD Generator/subVIs/Format VI Information.vi"/>
+		<Item Name="Generate Documentation from VIs.vi" Type="VI" URL="../MD Generator/subVIs/Generate Documentation from VIs.vi"/>
 		<Item Name="Get Common Path.vi" Type="VI" URL="../MD Generator/subVIs/Get Common Path.vi"/>
 	</Item>
 	<Item Name="Auto Generate Reports.vi" Type="VI" URL="../MD Generator/Auto Generate Reports.vi"/>
-	<Item Name="Generate Documentation from VIs.vi" Type="VI" URL="../MD Generator/subVIs/Generate Documentation from VIs.vi"/>
+	<Item Name="Build Reports for Files and Folders.vi" Type="VI" URL="../MD Generator/subVIs/Build Reports for Files and Folders.vi"/>
+	<Item Name="Format VI Information - Folder Report.vi" Type="VI" URL="../MD Generator/subVIs/Format VI Information - Folder Report.vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 </Library>

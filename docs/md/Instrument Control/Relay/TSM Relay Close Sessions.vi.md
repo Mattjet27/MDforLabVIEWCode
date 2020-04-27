@@ -1,0 +1,9 @@
+## **TSM Relay Close Sessions.vi**
+###Connector Pane:
+![alt text](/images/Instrument%20Control/Relay/TSM%20Relay%20Close%20Sessions.vic.png "TSM Relay Close Sessions.vi connector pane")
+
+###VI Description:
+Use this VI to reset and close all sessions for all NI-RELAY (Switch) instruments in the Semiconductor Module Context.
+
+###Block Diagram:
+![alt text](/images/Instrument%20Control/Relay/TSM%20Relay%20Close%20Sessions.vid.png "TSM Relay Close Sessions.vi block diagram")
