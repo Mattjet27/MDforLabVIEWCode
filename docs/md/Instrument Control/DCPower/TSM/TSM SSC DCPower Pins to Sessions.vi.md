@@ -1,6 +1,6 @@
 ## **TSM SSC DCPower Pins to Sessions.vi**
 ### Connector Pane:
-![alt text](/Instrument%20Control/DCPower/TSM/TSM%20SSC%20DCPower%20Pins%20to%20Sessions.vic.png "TSM SSC DCPower Pins to Sessions.vi connector pane")
+![alt text](/docs/images/Instrument%20Control/DCPower/TSM/TSM%20SSC%20DCPower%20Pins%20to%20Sessions.vic.png "TSM SSC DCPower Pins to Sessions.vi connector pane")
 
 ### VI Description:
 Populates the TSM SSC DCPower cluster for the specified pin(s) and pin group(s). 
@@ -10,4 +10,4 @@ The "Fill SSC Pin and Site Information?" should be set to TRUE (the default valu
 The "Fill SSC Pin and Site Information?" input can be set to FALSE if these features aren't needed, or to optimize test time.
 
 ### Block Diagram:
-![alt text](/Instrument%20Control/DCPower/TSM/TSM%20SSC%20DCPower%20Pins%20to%20Sessions.vid.png "TSM SSC DCPower Pins to Sessions.vi block diagram")
+![alt text](/docs/images/Instrument%20Control/DCPower/TSM/TSM%20SSC%20DCPower%20Pins%20to%20Sessions.vid.png "TSM SSC DCPower Pins to Sessions.vi block diagram")

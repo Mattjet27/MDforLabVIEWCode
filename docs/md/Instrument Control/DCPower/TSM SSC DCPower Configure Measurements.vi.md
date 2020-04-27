@@ -1,6 +1,6 @@
 ## **TSM SSC DCPower Configure Measurements.vi**
 ### Connector Pane:
-![alt text](/images/Instrument%20Control/DCPower/TSM%20SSC%20DCPower%20Configure%20Measurements.vic.png "TSM SSC DCPower Configure Measurements.vi connector pane")
+![alt text](/docs/images/Instrument%20Control/DCPower/TSM%20SSC%20DCPower%20Configure%20Measurements.vic.png "TSM SSC DCPower Configure Measurements.vi connector pane")
 
 ### VI Description:
 This VI configures the measurement mode for the sessions.
@@ -12,4 +12,4 @@ From a test time perspective Software Triggered measurements are better than usi
 Measure Multiple works for all devices and allows for easier debugging, but it takes longer to fetch measurements than the Software Triggered method.
 
 ### Block Diagram:
-![alt text](/images/Instrument%20Control/DCPower/TSM%20SSC%20DCPower%20Configure%20Measurements.vid.png "TSM SSC DCPower Configure Measurements.vi block diagram")
+![alt text](/docs/images/Instrument%20Control/DCPower/TSM%20SSC%20DCPower%20Configure%20Measurements.vid.png "TSM SSC DCPower Configure Measurements.vi block diagram")

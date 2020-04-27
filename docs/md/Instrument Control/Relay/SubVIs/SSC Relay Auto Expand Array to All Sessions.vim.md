@@ -1,6 +1,6 @@
 ## **SSC Relay Auto Expand Array to All Sessions.vim**
 ### Connector Pane:
-![alt text](/Instrument%20Control/Relay/SubVIs/SSC%20Relay%20Auto%20Expand%20Array%20to%20All%20Sessions.vimc.png "SSC Relay Auto Expand Array to All Sessions.vim connector pane")
+![alt text](/docs/images/Instrument%20Control/Relay/SubVIs/SSC%20Relay%20Auto%20Expand%20Array%20to%20All%20Sessions.vimc.png "SSC Relay Auto Expand Array to All Sessions.vim connector pane")
 
 ### VI Description:
 This VI expands the array in to each instrument session.
@@ -15,4 +15,4 @@ Cases:
 -If the array is larger than the instrument sessions it gets shortened and the function and emits a warning
 
 ### Block Diagram:
-![alt text](/Instrument%20Control/Relay/SubVIs/SSC%20Relay%20Auto%20Expand%20Array%20to%20All%20Sessions.vimd.png "SSC Relay Auto Expand Array to All Sessions.vim block diagram")
+![alt text](/docs/images/Instrument%20Control/Relay/SubVIs/SSC%20Relay%20Auto%20Expand%20Array%20to%20All%20Sessions.vimd.png "SSC Relay Auto Expand Array to All Sessions.vim block diagram")

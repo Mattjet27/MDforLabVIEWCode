@@ -1,6 +1,6 @@
 ## **TSM Relay Control Per-Site.vi**
 ### Connector Pane:
-![alt text](/images/Instrument%20Control/Relay/TSM%20Relay%20Control%20Per-Site.vic.png "TSM Relay Control Per-Site.vi connector pane")
+![alt text](/docs/images/Instrument%20Control/Relay/TSM%20Relay%20Control%20Per-Site.vic.png "TSM Relay Control Per-Site.vi connector pane")
 
 ### VI Description:
 Performs the specified per-site relay actions on all specified relays. 
@@ -11,4 +11,4 @@ Performs the specified per-site relay actions on all specified relays.
 -If the action array is larger than the sites it gets shortened and the function emits a warning
 
 ### Block Diagram:
-![alt text](/images/Instrument%20Control/Relay/TSM%20Relay%20Control%20Per-Site.vid.png "TSM Relay Control Per-Site.vi block diagram")
+![alt text](/docs/images/Instrument%20Control/Relay/TSM%20Relay%20Control%20Per-Site.vid.png "TSM Relay Control Per-Site.vi block diagram")
