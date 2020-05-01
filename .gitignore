@@ -1,5 +1,3 @@
-docs/html/*
-docs/md/*
-docs/wiki/*
+docs/*
 *.lvlps
 *.aliases
